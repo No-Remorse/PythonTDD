@@ -1,4 +1,4 @@
 virtualenv/
 *.txt
 *.pyc
-virtualenv/Lib/site-packages/django/__pycache__/__init__.cpython-38.pyc
+superlists/__pycache__/
