@@ -1,3 +1,4 @@
-/virtualenv
+virtualenv/
 *.txt
-virtualenv/Lib/site-packages/__pycache__/easy_install.cpython-38.pyc
+*.pyc
+virtualenv/Lib/site-packages/django/__pycache__/__init__.cpython-38.pyc
